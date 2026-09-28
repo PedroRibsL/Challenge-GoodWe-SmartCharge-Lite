@@ -156,16 +156,6 @@ python main.py
 
 <br>
 
-## 👥 Equipe
-
-| Integrante           | RM     |
-|----------------------|--------|
-| Nome do integrante 1 | 570083 |
-| Nome do integrante 2 |        |
-| Nome do integrante 3 |        |
-| Nome do integrante 4 |        |
-| Nome do integrante 5 |        |
-
 <br>
 
 <div align="center">
